@@ -1,0 +1,29 @@
+body{
+    background-color: red;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+q{
+    text-align: left;
+}
+label{
+    color: white;
+    text-align: center;
+}
+.login_div_1{
+    background-color: red;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+};
+h3{
+    color: black;
+}
+h5{
+    color: white;
+}
+h6{
+    color: white;
+}
